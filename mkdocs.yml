@@ -1,0 +1,20 @@
+site_name: Solana AMC Docs
+theme:
+  name: material
+  logo: assets/round_icon.svg
+  favicon: assets/round_icon.svg
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tabs
+
+nav:
+  - Whitepaper: whitepaper.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/solanaamc
+      name: Solana AMC on Twitter
+
+copyright: Copyright © Solana AMC 2021
